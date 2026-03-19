@@ -1,3 +1,4 @@
 let x = 1;
 let y = 2;
-console.log(x + y);
+let z = 3;
+console.log(x + y + z);
